@@ -1,3 +1,16 @@
-This project is based in Python flask and javascript.
+# Blog Project  
 
-This project is a blog project to create blog for personal use.
+## Description  
+This is a simple blog application built using **Flask (Python)** and **JavaScript**. The project allows users to create and manage personal blog posts.  
+
+## Features  
+- User authentication (if implemented)  
+- Create, edit, and delete blog posts  
+- Responsive design for better user experience  
+- Uses Flask for backend and JavaScript for interactivity  
+
+## Technologies Used  
+- **Backend**: Flask (Python)  
+- **Frontend**: HTML, CSS, JavaScript  
+- **Database**: SQLite (blog.db)  
+- **Package Management**: Poetry  
